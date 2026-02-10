@@ -9,7 +9,7 @@
 - [Install `VS Code`](#install-vs-code)
 - [Open the `Terminal`](#open-the-terminal)
 - [Configure `Git`](#configure-git)
-- [Open `VS Code` in the `software-engineering-toolkit` directory](#open-vs-code-in-the-software-engineering-toolkit-directory)
+- [Open the `software-engineering-toolkit` directory in `VS Code`](#open-the-software-engineering-toolkit-directory-in-vs-code)
 - [Copy your fork URL](#copy-your-fork-url)
 - [Clone the fork on your computer](#clone-the-fork-on-your-computer)
   - [Clone the fork using the `Terminal`](#clone-the-fork-using-the-terminal)
@@ -133,7 +133,7 @@ Complete these steps:
 
      Example: `git config --global user.name 'johndoe@gmail.com'`
 
-## Open `VS Code` in the `software-engineering-toolkit` directory
+## Open the `software-engineering-toolkit` directory in `VS Code`
 
 1. On your computer, create somewhere a directory `software-engineering-toolkit` (e.g., on your `Desktop`).
 2. Open `VS Code`.
