@@ -100,7 +100,9 @@ Complete these steps to create a VM:
    ping <your-vm-ip-address>
    ```
 
-   If it times out, try to recreate the VM.
+2. If it times out, try to recreate the VM.
+
+   Use the same public key as before.
 
 ## Connect to the VM
 
