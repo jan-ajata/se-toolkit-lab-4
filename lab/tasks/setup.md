@@ -57,6 +57,12 @@
 > These steps must be completed to get the right setup for this lab,
 > even if you have completed similar steps in the previous lab.
 
+> [!IMPORTANT]
+> Some steps have the `(NEW)` label.
+>
+> These steps were not present in previous setups.
+> Pay extra attention to these steps to ensure that you have the right setup for this lab.
+
 > [!NOTE]
 > We provide all of the hardest steps in the lab setup
 > so that TAs can help you get the right setup during the lab.
