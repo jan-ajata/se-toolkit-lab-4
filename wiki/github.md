@@ -241,7 +241,6 @@ A placeholder for the name of the [compare branch](#compare-branch).
 
 ### Open the PR editor using `GitHub`
 
-<!-- no toc -->
 - Method 1: [Open the PR editor using a button](#open-the-pr-editor-using-a-button)
 - Method 2: [Open the PR editor using `Pull requests`](#open-the-pr-editor-using-pull-requests)
 - Method 3: [Open the PR editor using the branch list](#open-the-pr-editor-using-the-branch-list)- [Finish creating a PR](#finish-creating-a-pr)
